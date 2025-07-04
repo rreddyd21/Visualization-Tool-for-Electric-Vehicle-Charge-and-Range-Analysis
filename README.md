@@ -134,6 +134,6 @@ Integrate predictive analytics for battery degradation
   
   Contacts:
   
-     Balija Gowthami : [Gouthamibalija@gmail.com]
-     D.Ruthvika : [ruthvikareddy687@gmail.com]
-     Madugundu Muralipriya : [22091A3283@rgmcet.edu.in]
+     Balija Gowthami : Gouthamibalija@gmail.com
+     D.Ruthvika : ruthvikareddy687@gmail.com
+     Madugundu Muralipriya : 22091A3283@rgmcet.edu.in
